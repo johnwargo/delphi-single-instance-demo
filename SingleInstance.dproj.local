@@ -2,10 +2,10 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2025/06/15 05:31:03.000.842,=C:\Users\john\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/06/15 05:31:46.000.944,D:\dev\delphi\SingleInstance\main.pas=C:\Users\john\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2025/06/15 05:31:46.000.944,D:\dev\delphi\SingleInstance\main.dfm=C:\Users\john\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2025/06/15 05:31:52.000.360,D:\dev\delphi\SingleInstance\SingleInstance.dproj=C:\Users\john\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/06/15 05:31:46.000.944,C:\Users\john\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\dev\delphi\SingleInstance\main.pas</Transaction>
+    <Transaction>2025/06/15 05:31:46.000.944,C:\Users\john\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\dev\delphi\SingleInstance\main.dfm</Transaction>
+    <Transaction>2025/06/15 05:31:52.000.360,C:\Users\john\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\dev\delphi\SingleInstance\SingleInstance.dproj</Transaction>
     <Transaction>2025/06/15 13:54:34.000.278,=D:\dev\delphi\SingleInstance\Unit1.pas</Transaction>
-    <Transaction>2025/06/15 13:55:02.000.729,D:\dev\delphi\SingleInstance\Unit1.pas=D:\dev\delphi\SingleInstance\AppSingleInstance.pas</Transaction>
+    <Transaction>2025/06/15 13:55:02.000.729,D:\dev\delphi\SingleInstance\AppSingleInstance.pas=D:\dev\delphi\SingleInstance\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>
