@@ -40,5 +40,6 @@ Then, when I double-clicked on the shortcut, the application launches with the r
 2. Send the runtime parameters to the initial instance of the application.
 3. Activated the initial instance of the application.
 4. Terminated the new application instance.
-5. 
+
+![Application main screen with scenario 2](screenshots/image-04.png)
 
