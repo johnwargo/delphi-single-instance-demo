@@ -7,4 +7,6 @@ I was trying to figure this out on my own when I discovered [How to run a single
 I decided to publish this project since:
 
 + The article didn't include operational project source files I could compile and play around with.
-+ The code in the article 
++ The code in the article was a little hard to read
++ I wanted a version of the app I could run and test different scenarios to see how it all worked.
+
