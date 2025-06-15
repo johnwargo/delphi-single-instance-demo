@@ -43,3 +43,8 @@ Then, when I double-clicked on the shortcut, the application launches with the r
 
 ![Application main screen with scenario 2](screenshots/image-04.png)
 
+***
+
+You can find information on many different topics on my [personal blog](https://www.johnwargo.com). Learn about all of my publications at [John Wargo Books](https://www.johnwargobooks.com).
+
+If you find this code useful and feel like thanking me for providing it, please consider <a href="https://buymeacoffee.com/johnwargo" target="_blank">Buying Me a Coffee</a>, or making a purchase from [my Amazon Wish List](https://amzn.com/w/1WI6AAUKPT5P9).
