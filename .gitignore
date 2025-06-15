@@ -1,0 +1,9 @@
+# Folders
+__history/
+__recovery/
+Win32/
+Win64
+installer/
+
+# Files
+sub-copy-folderlist.txt
