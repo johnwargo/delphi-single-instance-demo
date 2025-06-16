@@ -25,6 +25,7 @@ begin
       MessageDlg('Unable to activate existing application instance',
         mtInformation, [mbOk], 0, mbOk);
     end;
+    // this kills the second instance
     halt;
   end;
 
